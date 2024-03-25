@@ -1,7 +1,10 @@
 # Desefio_DIO_Aplica-oWEB
 
-Arquivo YML
+Arquivo YML;
+
 Alterer o Volumes:
  - /disk2/data/nc_data:/var/www/html
  - /disk2/data/db_data:/var/lib/mysql
+
+ - 
  Pois igual ao seu uso.
